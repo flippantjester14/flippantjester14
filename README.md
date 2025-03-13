@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Chirag 👋
 
-<!--
-**flippantjester14/flippantjester14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **Electronics and Telecommunication Engineering** student at **MSRIT** 🎓. I specialize in **Robotics 🤖**, **Machine Learning & Deep Learning 🧠**, and **LLM-based models for robotics** — all aimed at transforming the future of technology.
 
-Here are some ideas to get you started:
+Currently, I'm diving into the fascinating world of **Satellite Designs 🛰️**, expanding my knowledge to explore new frontiers in space communication and innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I'm Working On
+
+- **Robotics 🤖:** Pioneering intelligent systems and automation.
+- **ML/DL & LLM Models 🧠:** Building models that mimic human cognition to drive smarter robotics.
+- **Satellite Designs 🛰️:** Learning cutting-edge technologies to revolutionize space communications.
+
+Feel free to explore my projects and collaborate on groundbreaking ideas!
+
+<!-- Let's connect and innovate together! -->
