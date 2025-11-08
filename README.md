@@ -8,7 +8,6 @@ Currently, I'm diving into the fascinating world of **Satellite Designs 🛰️*
 
 - **Robotics 🤖:** Pioneering intelligent systems and automation.
 - **ML/DL & LLM Models 🧠:** Building models that mimic human cognition to drive smarter robotics.
-- **Satellite Designs 🛰️:** Learning cutting-edge technologies to revolutionize space communications.
 
 
 ## 🌐 Socials:
