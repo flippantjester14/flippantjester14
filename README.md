@@ -2,7 +2,7 @@
 
 I'm an **Electronics and Telecommunication Engineering** student at **MSRIT** 🎓. I specialize in **Robotics 🤖**, **Machine Learning & Deep Learning 🧠**, and **LLM-based models for robotics** — all aimed at transforming the future of technology.
 
-Currently, I'm diving into the fascinating world of **Satellite Designs 🛰️**, expanding my knowledge to explore new frontiers in space communication and innovation.
+Currently, I'm diving into the fascinating world of **Autonomous Robotic Systems**, expanding my knowledge to explore new frontiers in space communication and innovation.
 
 ## 🚀 What I'm Working On
 
